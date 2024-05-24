@@ -1,9 +1,9 @@
 <h1>What it do Nerds! Welcome to my <a href="https://www.linkedin.com/in/darionjefferson/">Cybersecurity Analyst</a> & <a href="https://app.mavenanalytics.io/portfolio">Data Analyst</a> Portfolio!</h1>
 
 
-<h2>👨‍💻 Cybersecurity Analyts:</h2>
+<h2>👨‍💻 Cybersecurity Analyst:</h2>
 
-- [External Audit-GRC Master Class](https://docs.google.com/spreadsheets/d/1ctTJiktQwkKV4Y5fh76SxmJptNIFFLn1/edit#gid=646564591)
+- [External Security Audit-GRC Master Class](https://docs.google.com/spreadsheets/d/1ctTJiktQwkKV4Y5fh76SxmJptNIFFLn1/edit#gid=646564591)
 - [NIST 800-30 Risk Assessment]()
 - [IT Security Policy]()
 - [Active Directory Lab](https://docs.google.com/document/d/1kYYtlfFyq_ecI9y70_8a6kAWODKuPyfW0A1QBkS_yLQ/edit)
