@@ -1,4 +1,4 @@
-<h1>What it do Nerds! Welcome to my <a href="https://www.linkedin.com/in/darionjefferson/">Cybersecurity Analyst</a> & <a href="https://app.mavenanalytics.io/portfolio">Data Analyst</a> Portfolio!</h1>
+<h1>What it do Nerds! Welcome to my <a href="https://www.linkedin.com/in/darionjefferson/">Cybersecurity</a> & <a href="https://app.mavenanalytics.io/portfolio">Data</a> Portfolio!</h1>
 
 
 <h2>👨‍💻 Cybersecurity Analyst:</h2>
@@ -9,7 +9,7 @@
 - [Active Directory Lab](https://docs.google.com/document/d/1kYYtlfFyq_ecI9y70_8a6kAWODKuPyfW0A1QBkS_yLQ/edit)
 - [Microsoft Sentnel SEIM Lab]()
   
-<h2>📊 Data Analytics:</h2>
+<h2>📊 Business Analyst:</h2>
 
 - <b>Power BI</b>
   - [Toy Store KPI Report](https://app.mavenanalytics.io/)
